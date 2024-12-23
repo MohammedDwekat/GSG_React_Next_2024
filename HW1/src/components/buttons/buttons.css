@@ -1,0 +1,10 @@
+input
+{
+    height: 40px;
+    width: 40px;
+    margin: 3px;
+    background-color: rgb(65, 111, 209) ;
+    color: white;
+    font-weight: bold;
+    border-radius: 20%;
+}
