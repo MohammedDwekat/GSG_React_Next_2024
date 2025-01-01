@@ -1,0 +1,14 @@
+.dashboard{
+border: 1px solid black;
+margin: 20px;
+padding: 10px;
+}
+
+
+.dashboard> div {
+    display: flex;
+    column-gap: 5px;
+    border: 1px solid black;
+    padding: 10px;
+    width: 99%;
+}
